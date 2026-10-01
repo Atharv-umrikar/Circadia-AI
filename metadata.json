@@ -1,0 +1,8 @@
+{
+  "name": "Circadia AI — Chronobiological Day Re-Planner",
+  "description": "Real-time physiological adjustment engine. Track daily biomarkers, visualize your diurnal energy baseline, generate acute rebound plans, and measure 7-day N-of-1 trials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
